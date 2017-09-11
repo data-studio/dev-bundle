@@ -1,0 +1,9 @@
+{
+  "name": "dev-bundle",
+  "version": "1.0.0",
+  "description": "Development bundle for Data Studio (datastudio.xyz)",
+  "main": "index.js",
+  "repository": "git@github.com:data-studio/dev-bundle.git",
+  "author": "Callan Milne <callan.milne@eviratec.com.au>",
+  "license": "MIT"
+}
