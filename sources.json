@@ -1,0 +1,8 @@
+{
+  "root": "dev-bundle",
+  "source": "git@github.com:data-studio/dev-bundle.git",
+  "projects": [
+    "git@github.com:data-studio/user-svc.git",
+    "git@github.com:data-studio/webui.git"
+  ]
+}
